@@ -1,0 +1,64 @@
+{
+  "contract_version": "ace.video_kingdom.public_reference_assets.v1",
+  "scope": "AGNES_REFERENCE_CONDITIONING_ONLY",
+  "publication_authorization": "USER_AUTHORIZED_2026-09-01",
+  "repository": "https://github.com/zhangapple21-web/ace-video-assets",
+  "asset_root": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/main/references/wenji-episode-006/",
+  "retention": "Keep only the named reference stills. Do not add video outputs, logs, credentials, dialogue audio, chat material, or unrelated user files.",
+  "assets": [
+    {
+      "asset_id": "WENJI_IDENTITY_REFERENCE",
+      "file": "wenji_user_reference_2026-09-01.png",
+      "sha256": "546cbac39360505da4dbb57590e73e9e27fa54b8aa3af035ac81ccde83df143c",
+      "purpose": "Character identity reference; not a reusable every-shot start frame."
+    },
+    {
+      "asset_id": "SCENE_01_NIGHT_DESK_BACK",
+      "file": "SCENE_01_night_desk_back_anchor.png",
+      "sha256": "86fa6100172744c3bd870839f2a5cf30ca638c5dcc38cbd90879fade2aac8f39",
+      "purpose": "Scene-specific Flash reference for the night-desk back-angle shot."
+    },
+    {
+      "asset_id": "SCENE_05_PHONE_CLOSE",
+      "file": "SCENE_05_phone_close_anchor.png",
+      "sha256": "d509faba56cb114c4bb1a269f086bdfb97b3f9b65fe50c4cc96f1b067d421cac",
+      "purpose": "Scene-specific Flash reference for the phone close-up shot."
+    },
+    {
+      "asset_id": "SCENE_06_CONSULTATION_LOBBY",
+      "file": "SCENE_06_consultation_lobby_anchor.png",
+      "sha256": "d13a316f06984f8ff6b954fcc18bf2e44faa5abdbfbc0c1bce598a765cab38d2",
+      "purpose": "Scene-specific Flash reference for the consultation-lobby shot."
+    },
+    {
+      "asset_id": "SCENE_02_TYPING_LOG",
+      "file": "SCENE_02_typing_log_anchor.png",
+      "sha256": "e5015c19d9f75b3164aeace2542892f893914cd3c7cd630c4cd69db28c7473a3",
+      "purpose": "Derived local still from completed WJ701; a distinct continuity anchor for the evidence-log action."
+    },
+    {
+      "asset_id": "SCENE_03_WINDOW_PAUSE",
+      "file": "SCENE_03_window_pause_anchor.png",
+      "sha256": "51c522eb46b09d8500b81ba0baefbbc137b486e207d16191b9cfbff3bf836357",
+      "purpose": "Derived local still from completed WJ701; a distinct continuity anchor for the night-window pause."
+    },
+    {
+      "asset_id": "SCENE_04_PHONE_READ",
+      "file": "SCENE_04_phone_read_anchor.png",
+      "sha256": "903c0de7967f3f26ac7ff910c6da488643ab38e69f2044067d5619b1a9badf3a",
+      "purpose": "Derived local still from completed WJ702; a distinct continuity anchor for the phone-message action."
+    },
+    {
+      "asset_id": "SCENE_07_FOLDER_CLOSE",
+      "file": "SCENE_07_folder_close_anchor.png",
+      "sha256": "612c7f4f9c0fd54fe02d5085d9b8dc50fe679920fef65abb81e82651122254be",
+      "purpose": "Derived local still from completed WJ702; a distinct continuity anchor for the folder-and-evidence action."
+    },
+    {
+      "asset_id": "SCENE_08_COUNTER_APPROACH",
+      "file": "SCENE_08_counter_approach_anchor.png",
+      "sha256": "e254fb2d7ad2dca254d06f9549251084d3742ef726e9ea7b7b08c7bd405d4acc",
+      "purpose": "Derived local still from completed WJ703; a distinct continuity anchor for the consultation-counter action."
+    }
+  ]
+}
