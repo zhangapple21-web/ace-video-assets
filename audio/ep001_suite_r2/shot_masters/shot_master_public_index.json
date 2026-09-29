@@ -1,0 +1,376 @@
+{
+  "schema": "video_kingdom.suite_ep001_shot_master_public_index.v1",
+  "branch": "ep001-suite-audio-r2",
+  "raw_base_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/",
+  "masters": [
+    {
+      "shot_id": "SHOT_E1_001",
+      "wav_file": "SHOT_E1_001.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_001.wav",
+      "sha256": "A85429C643A2D7F434FB473C65FC05C232BC2A39106433735E82BC1FA6F22492",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_002",
+      "wav_file": "SHOT_E1_002.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_002.wav",
+      "sha256": "A436F0B9472B40CCF24531BD3FA581B96CF01ECC00C183FF87C9F1807B0BEF33",
+      "bytes": 288044,
+      "duration_seconds": 6.0,
+      "spoken_units": 0
+    },
+    {
+      "shot_id": "SHOT_E1_003",
+      "wav_file": "SHOT_E1_003.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_003.wav",
+      "sha256": "455A6502CB8C3A5E953FD43E2E9A0ABC53BC6F42A2398B4658D2B318D73A4E87",
+      "bytes": 336044,
+      "duration_seconds": 7.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_004",
+      "wav_file": "SHOT_E1_004.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_004.wav",
+      "sha256": "B8EC1E8500037FB85A3D47654EB9B34875B55BC212BD7494A020102B1FD14B5B",
+      "bytes": 432044,
+      "duration_seconds": 9.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_005",
+      "wav_file": "SHOT_E1_005.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_005.wav",
+      "sha256": "BA798A5F08C10DF1DBCCEE582FD74FDE74CC069BF20FF22AFC6A02E3F81508D0",
+      "bytes": 384044,
+      "duration_seconds": 8.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_006",
+      "wav_file": "SHOT_E1_006.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_006.wav",
+      "sha256": "76517930F0935AA8FD0E238E3C0DF143009C12C3AA8970CEC53E91D8DDF5AAAE",
+      "bytes": 576044,
+      "duration_seconds": 12.0,
+      "spoken_units": 6
+    },
+    {
+      "shot_id": "SHOT_E1_007",
+      "wav_file": "SHOT_E1_007.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_007.wav",
+      "sha256": "C8757B06A10BAA9B5A7A851051792050DD35A701C5646E167C42AC90598ECD8E",
+      "bytes": 576044,
+      "duration_seconds": 12.0,
+      "spoken_units": 5
+    },
+    {
+      "shot_id": "SHOT_E1_008",
+      "wav_file": "SHOT_E1_008.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_008.wav",
+      "sha256": "0979B56F4963F8ACB4F1EA83A80936D5E9991695465D3D54FCC215D03791B056",
+      "bytes": 288044,
+      "duration_seconds": 6.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_009",
+      "wav_file": "SHOT_E1_009.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_009.wav",
+      "sha256": "856935EB0DEB05665A8E1E9864251A16A28B28E36F4B8A1BFFAC488A9F6D9F62",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_010A",
+      "wav_file": "SHOT_E1_010A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_010A.wav",
+      "sha256": "85BFDD7210C74F3C102C760452ABE5B7B6C656C42A466928DB555931E38BFF26",
+      "bytes": 480044,
+      "duration_seconds": 10.0,
+      "spoken_units": 6
+    },
+    {
+      "shot_id": "SHOT_E1_010B",
+      "wav_file": "SHOT_E1_010B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_010B.wav",
+      "sha256": "ABA4B446002B4812F3931BB7275240ED2B3632226A0B9B6B0C5B381969C590A5",
+      "bytes": 192044,
+      "duration_seconds": 4.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_011",
+      "wav_file": "SHOT_E1_011.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_011.wav",
+      "sha256": "17B1B553BC597EEBC49F50CAA7A946BF74A87F6998730559E0D563611D28E8ED",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 3
+    },
+    {
+      "shot_id": "SHOT_E1_012A",
+      "wav_file": "SHOT_E1_012A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_012A.wav",
+      "sha256": "DF7C664002C503864EF6A4F67991E6DEEEB3F0C858C972E3C5110BA9314AAFCC",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 3
+    },
+    {
+      "shot_id": "SHOT_E1_012B",
+      "wav_file": "SHOT_E1_012B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_012B.wav",
+      "sha256": "3E914F7C23ABFDE7145175223503CCEB084C67F468A4B501BFC20C001C67FB50",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_013A",
+      "wav_file": "SHOT_E1_013A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_013A.wav",
+      "sha256": "0EB3B17C417570E60EED5526152551AECD3B781D4548FA1D2214F5BAE76757EA",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 6
+    },
+    {
+      "shot_id": "SHOT_E1_013B",
+      "wav_file": "SHOT_E1_013B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_013B.wav",
+      "sha256": "950DB1D2E86F51C5A2AC6737D395EA55B9CDEE78CD26103ECC5319943145FE4E",
+      "bytes": 288044,
+      "duration_seconds": 6.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_014",
+      "wav_file": "SHOT_E1_014.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_014.wav",
+      "sha256": "F119120EB2F88D5452CADF9A5F3608B2B19BE89CBB6C7A53A14491F88C3483AE",
+      "bytes": 432044,
+      "duration_seconds": 9.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_015",
+      "wav_file": "SHOT_E1_015.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_015.wav",
+      "sha256": "D83FC53CF28B875F482CF98E550F7A039AF9DE7D2FF5CD565C36CE8F276E5300",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 6
+    },
+    {
+      "shot_id": "SHOT_E1_016A",
+      "wav_file": "SHOT_E1_016A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_016A.wav",
+      "sha256": "8CF7D0FFCFE2D3624AE1AE1962DCBBDFB5A75CDE43338B9C65F8733CEFDA533F",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 6
+    },
+    {
+      "shot_id": "SHOT_E1_016B",
+      "wav_file": "SHOT_E1_016B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_016B.wav",
+      "sha256": "13D415E91A0B7358B44F2F95E97EED38324A4A1104F812E0E4C9FB01824F6DF7",
+      "bytes": 192044,
+      "duration_seconds": 4.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_017",
+      "wav_file": "SHOT_E1_017.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_017.wav",
+      "sha256": "7CAD54A4C46772823E20A573B9A2FC8E22C4C74F895DF5407A19AFA46829A93E",
+      "bytes": 336044,
+      "duration_seconds": 7.0,
+      "spoken_units": 0
+    },
+    {
+      "shot_id": "SHOT_E1_018A",
+      "wav_file": "SHOT_E1_018A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_018A.wav",
+      "sha256": "830EF149C0208FB2505310B80562420D8CBAA1966D9576C5C36C736B641F371C",
+      "bytes": 528044,
+      "duration_seconds": 11.0,
+      "spoken_units": 7
+    },
+    {
+      "shot_id": "SHOT_E1_018B",
+      "wav_file": "SHOT_E1_018B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_018B.wav",
+      "sha256": "98DD1A8351A6F316E3EFF5E9E704666DA4BD9EF89C200E60A9AB5F47968135D6",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_019",
+      "wav_file": "SHOT_E1_019.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_019.wav",
+      "sha256": "A436F0B9472B40CCF24531BD3FA581B96CF01ECC00C183FF87C9F1807B0BEF33",
+      "bytes": 288044,
+      "duration_seconds": 6.0,
+      "spoken_units": 0
+    },
+    {
+      "shot_id": "SHOT_E1_020",
+      "wav_file": "SHOT_E1_020.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_020.wav",
+      "sha256": "0C607A25A9066B92D26DF85836D9ECC4490BA000CE41DE7BBEBCB7499A04E71C",
+      "bytes": 432044,
+      "duration_seconds": 9.0,
+      "spoken_units": 5
+    },
+    {
+      "shot_id": "SHOT_E1_021A",
+      "wav_file": "SHOT_E1_021A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_021A.wav",
+      "sha256": "09E996A76639A62921E6F421FA87AC7300E0A968654981BDFA3EBFE179A717C5",
+      "bytes": 432044,
+      "duration_seconds": 9.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_021B",
+      "wav_file": "SHOT_E1_021B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_021B.wav",
+      "sha256": "A536E9E342F4533A63DE0E9DBF6EF1952A7B3F67813BBE20C8E431843F17B4FE",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_022",
+      "wav_file": "SHOT_E1_022.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_022.wav",
+      "sha256": "8A0AE952CFACB433B287AF89A1AE4A976C03FF9FC3496F6239334251B41FB9AF",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_023",
+      "wav_file": "SHOT_E1_023.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_023.wav",
+      "sha256": "33A51544D90AB97AA4A817BB4D6A18488934EE0CAD14612972BF369EB464B054",
+      "bytes": 576044,
+      "duration_seconds": 12.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_024",
+      "wav_file": "SHOT_E1_024.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_024.wav",
+      "sha256": "7135F8B244EB174B054D819F53DCCD1D6BA35AA94D94513BE734889B3BE249EA",
+      "bytes": 384044,
+      "duration_seconds": 8.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_025",
+      "wav_file": "SHOT_E1_025.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_025.wav",
+      "sha256": "63FD0DE0E86F29EC5C8286D86F58814234607FFD2B0CEF0ABB93AD056A06A75E",
+      "bytes": 480044,
+      "duration_seconds": 10.0,
+      "spoken_units": 2
+    },
+    {
+      "shot_id": "SHOT_E1_026",
+      "wav_file": "SHOT_E1_026.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_026.wav",
+      "sha256": "772F4C37C107CD45E20198C64231B846755A74B4C1595B0AC23EFCAA351262DE",
+      "bytes": 384044,
+      "duration_seconds": 8.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_027A",
+      "wav_file": "SHOT_E1_027A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_027A.wav",
+      "sha256": "3BC8D36FEF038975563462212DAFA31CECE11D80BFE32D418726C113B490A3B5",
+      "bytes": 480044,
+      "duration_seconds": 10.0,
+      "spoken_units": 4
+    },
+    {
+      "shot_id": "SHOT_E1_027B",
+      "wav_file": "SHOT_E1_027B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_027B.wav",
+      "sha256": "942A1C2F04AB04BFC9F3DDA5F11A47F32D8069B0DB6B70882FEF4C0113D2F7EE",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 0
+    },
+    {
+      "shot_id": "SHOT_E1_028A",
+      "wav_file": "SHOT_E1_028A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_028A.wav",
+      "sha256": "81B6CBF50C862A006CDDB8B31EC6A81448B7C9621AB02C090E3B4F8522F3D292",
+      "bytes": 576044,
+      "duration_seconds": 12.0,
+      "spoken_units": 3
+    },
+    {
+      "shot_id": "SHOT_E1_028B",
+      "wav_file": "SHOT_E1_028B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_028B.wav",
+      "sha256": "A2E596C0BE3895A446F23836283F2AFD9500D37F47D695ECB6D31B00D8148C25",
+      "bytes": 240044,
+      "duration_seconds": 5.0,
+      "spoken_units": 3
+    },
+    {
+      "shot_id": "SHOT_E1_029",
+      "wav_file": "SHOT_E1_029.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_029.wav",
+      "sha256": "38995D53EE2060580EDE5B251BDC346CFCFC01F650C1F14C49C14B3A1471DE47",
+      "bytes": 336044,
+      "duration_seconds": 7.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_030",
+      "wav_file": "SHOT_E1_030.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_030.wav",
+      "sha256": "35E68AA6887A9E5E44E9CDE38759467143D6CD6316673E3BECE3843FD648D895",
+      "bytes": 576044,
+      "duration_seconds": 12.0,
+      "spoken_units": 5
+    },
+    {
+      "shot_id": "SHOT_E1_031",
+      "wav_file": "SHOT_E1_031.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_031.wav",
+      "sha256": "C9312B3CA2AB6A5412027679417EC352687525596888BF0A27779054AA122850",
+      "bytes": 384044,
+      "duration_seconds": 8.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_032A",
+      "wav_file": "SHOT_E1_032A.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_032A.wav",
+      "sha256": "320C0279D42573875817F02577F451A74D85A0440A2FF6E87FF8BFA38BCE3864",
+      "bytes": 288044,
+      "duration_seconds": 6.0,
+      "spoken_units": 1
+    },
+    {
+      "shot_id": "SHOT_E1_032B",
+      "wav_file": "SHOT_E1_032B.wav",
+      "public_url": "https://raw.githubusercontent.com/zhangapple21-web/ace-video-assets/ep001-suite-audio-r2/audio/ep001_suite_r2/shot_masters/SHOT_E1_032B.wav",
+      "sha256": "C514A11E3003DC213026C2187043BD840C30919687D5770744B85A4B2E9D47D1",
+      "bytes": 384044,
+      "duration_seconds": 8.0,
+      "spoken_units": 1
+    }
+  ]
+}
